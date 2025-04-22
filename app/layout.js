@@ -8,7 +8,8 @@ import { Toaster } from "@/components/ui/toaster"
 const inter = Inter({ subsets: ["latin"] })
 
 export const metadata = {
-  title: "Excellence Coaching Institute",
+    title: "ojha Coaching classes",
+
   description: "Expert coaching for grades 4-12 with personalized attention and proven results.",
     generator: 'v0.dev'
 }
