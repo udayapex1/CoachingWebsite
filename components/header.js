@@ -27,7 +27,7 @@ export default function Header() {
       <div className="container flex h-16 items-center justify-between px-4 md:px-6">
         <Link href="/" className="flex items-center space-x-2">
           <GraduationCap className="h-6 w-6 text-blue-600" />
-          <span className="font-bold text-lg">Excellence Coaching</span>
+          <span className="font-bold text-lg"> Ojha Coaching classes</span>
         </Link>
 
         {isMobile ? (
